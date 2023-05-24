@@ -1,1 +1,2 @@
-# pythongame
+To start up, I have made this simple and easy game by myself in order to understand
+how the python works in. I have briefly described the code using the comments on my game to help people understand on how it actually works and what it is.
